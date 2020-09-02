@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jignesh Gangajaliya</h1>
-<h3 align="center">A passionate iOS Developer from India</h3>
+<h3 align="center">A Passionate iOS Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jignesh-gangajaliya" alt="jignesh-gangajaliya" /> </p>
 
 - 🌱 I’m currently learning **SwiftUI-RxSwift-nodejs-python**
-
-- 💬 Ask me about **iPhone app development for your startup.**
 
 - 📫 How to reach me **jigneshgangajaliya44@gmail.com**
 
